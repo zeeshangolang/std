@@ -1,0 +1,8 @@
+day1 =fmt, errors
+day2 = io
+day3 = os
+day4 = bufio
+day5 = strings, bytes
+day6 = strconv
+day7 = path/filepath
+day8 = time
